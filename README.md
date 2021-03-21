@@ -9,3 +9,4 @@ word cloud is an image composed of words used in a particular text or subject, i
 Created  interactive web application using open - source Python library -  **Streamlit**
 
 ![Alt text](https://github.com/RohanLone/wordcloud/blob/main/Screenshots/Screenshot_Streamlit_app.png? "Title")
+![Alt text] (https://github.com/RohanLone/wordcloud/blob/main/Screenshots/Screenshot_Streamlit_app2.png)
